@@ -3,13 +3,13 @@ VETERAN SOURCE-AVAILABLE LICENSE (VSAL)
 Version 1.2 - Generic Source-Available & Auditable Software License
 ===============================================================================
 
-Copyright (c) [YEAR] [COPYRIGHT HOLDER / AUTHOR NAME]. All Rights Reserved.
+Copyright (c) [2026] ([Berkay Kesgin / VoidOaz]). All Rights Reserved.
 
 -------------------------------------------------------------------------------
 PREAMBLE AND PURPOSE
 -------------------------------------------------------------------------------
 This License Agreement ("License") is a legal agreement between the Author
-([COPYRIGHT HOLDER / AUTHOR NAME]) and any individual, entity, or organization
+([Berkay Kesgin / VoidOaz]) and any individual, entity, or organization
 accessing, inspecting, compiling, or evaluating the Software ("Licensee" or "You").
 
 The Author has created and developed the Software to provide full source-code
