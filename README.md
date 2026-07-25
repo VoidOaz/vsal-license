@@ -35,6 +35,9 @@ This repository provides ready-to-use license templates in multiple languages:
 | [`LICENSE-ID.md`](./LICENSE-ID.md) | 🇮🇩 Indonesian |
 | [`LICENSE-KO.md`](./LICENSE-KO.md) | 🇰🇷 Korean |
 | [`LICENSE-FR.md`](./LICENSE-FR.md) | 🇫🇷 French |
+| [`LICENSE-RU.md`](./LICENSE-RU.md) | 🇷🇺 Russian |
+| [`LICENSE-ES.md`](./LICENSE-ES.md) | 🇪🇸 Spanish |
+| [`LICENSE-DE.md`](./LICENSE-DE.md) | 🇩🇪 German |
 
 ---
 
