@@ -31,7 +31,7 @@ BELİRTİLEN DENETİM, İNCELEME VE TİCARİ OLMAYAN TEST AMAÇLARI İÇİN VER�
 BÖLÜM 1 - TANIMLAR
 ===============================================================================
 
-1.1 "Yazar", [TELİF HAKKI SAHİBİ / YAZAR ADI]'nı, Yazılımın tek yaratıcısı ve
+1.1 "Yazar", [VoidOaz]'nı, Yazılımın tek yaratıcısı ve
 telif hakkı sahibini ifade eder.
 
 1.2 "Yazılım", bu paket kapsamında sağlanan kaynak kod dosyaları, derlenmiş
